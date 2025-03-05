@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>👋 Hi, I'm ygoncloud, a DevOps Engineer, Cloud Engineer, and Software Developer passionate about automation, cloud infrastructure, and scalable solutions. I specialize in CI/CD, Kubernetes, Terraform, and cloud platforms like AWS, Azure, and GCP to streamline development and deployment processes.<br><br>
+👋 Hi, I'm ygoncloud, a DevOps Engineer, Cloud Engineer, and Software Developer passionate about automation, cloud infrastructure, and scalable solutions. I specialize in CI/CD, Kubernetes, Terraform, and cloud platforms like AWS, Azure, and GCP to streamline development and deployment processes.<br><br>
 
 
 ## 🌐 Socials:
