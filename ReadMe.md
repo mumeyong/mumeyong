@@ -18,11 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ygoncloud&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<<<<<<< HEAD
 ### 🐍My Python
-![Snake animation](https://raw.githubusercontent.com/ygoncloud/ygoncloud/output/github-contribution-grid-snake-dark.svg)
-=======
-## Feeding
 ![Snake animation](https://github.com/ygoncloud/ygoncloud/blob/output/github-snake-dark.svg)
->>>>>>> 7685e3c8fc090eeff4237be96590fe3972a90353
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
