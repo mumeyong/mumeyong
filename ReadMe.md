@@ -22,5 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ygoncloud&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ## Feeding
-![Snake animation](https://raw.githubusercontent.com/ygoncloud/ygoncloud/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ygoncloud/ygoncloud/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
