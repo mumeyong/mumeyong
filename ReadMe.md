@@ -1,8 +1,8 @@
-# 💫 About Me:
+# ☁︎ About Me:
 👋 Hi, I'm ygoncloud, a DevOps Engineer, Cloud Engineer, and Software Developer passionate about automation, cloud infrastructure, and scalable solutions. I specialize in CI/CD, Kubernetes, Terraform, and cloud platforms like AWS, Azure, and GCP to streamline development and deployment processes.<br><br>
 
 
-## 🌐 Socials:
+## ☰ Socials:
 
 [![Behance](https://img.shields.io/badge/Behance-%23444444.svg?logo=behance&logoColor=white)](https://behance.net/ygoncloud) 
 [![Facebook](https://img.shields.io/badge/Facebook-%23444444.svg?logo=Facebook&logoColor=white)](https://facebook.com/ygoncloud) 
@@ -13,7 +13,7 @@
 [![X](https://img.shields.io/badge/X-%23444444.svg?logo=X&logoColor=white)](https://x.com/ygoncloud) 
 
 
-## 💻 Tech Stack:
+## ◉ Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23444444.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-%23444444.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -32,16 +32,15 @@
 ![Git](https://img.shields.io/badge/Git-%23444444.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📊 GitHub Stats:
+## ⏣ GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ygoncloud&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ygoncloud&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## ★ GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ygoncloud&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🐍 My Python
+## Ϟ My Python
 ![Snake animation](https://github.com/ygoncloud/ygoncloud/blob/output/github-snake-dark.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
