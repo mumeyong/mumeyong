@@ -84,7 +84,7 @@ def main():
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
     user_details_lines = f"""
-    \x1b[30;101mx0rzavi@GitHub\x1b[0m
+    \x1b[30;101mygoncloud@GitHub\x1b[0m
     --------------
     \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, Windows 11, Android 14\x1b[0m
     \x1b[96mHost:   \x1b[93mYGoncloud AMIKOM University of Yogyakarta \x1b[94m#NSEC\x1b[0m
@@ -166,7 +166,7 @@ def main():
     <img alt="GIFOS" src="output.gif">
 </picture>
 
-<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on {time_now}</i></sub>
+<sub><i>Generated automatically using [ygoncloud/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on {time_now}</i></sub>
 
 <!-- <details>
 <summary>More details</summary>
