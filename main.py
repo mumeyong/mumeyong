@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 
 FONT_FILE_LOGO = "./fonts/vtks-blocketo.regular.ttf"
 # FONT_FILE_BITMAP = "./fonts/ter-u14n.pil"
-FONT_FILE_BITMAP = "./fonts/gohufont-uni-14.pil"
+# FONT_FILE_BITMAP = "./fonts/gohufont-uni-14.pil"
 FONT_FILE_TRUETYPE = "./fonts/IosevkaTermNerdFont-Bold.ttf"
 FONT_FILE_MONA = "./fonts/Inversionz.otf"
 
