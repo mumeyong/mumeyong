@@ -79,7 +79,7 @@ def main():
     t.gen_text("\x1b[92mclear\x1b[0m", 7, count=3, contin=True)
 
     # ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
-    git_user_details = gifos.utils.fetch_github_stats("ygoncloud", ignore_repos)
+    git_user_details = gifos.utils.fetch_github_stats("ygoncloud")
     user_age = gifos.utils.calc_age(26, 7, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
