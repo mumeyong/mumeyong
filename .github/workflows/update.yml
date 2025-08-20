@@ -29,8 +29,8 @@ jobs:
       - name: Run script
         run: python main.py
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          IMGBB_API_KEY: ${{ secrets.MY_IMGBB_API_KEY }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          MY_IMGBB_API_KEY: ${{ secrets.MY_IMGBB_API_KEY }}
           GIFOS_GENERAL_FPS: 13
           GIFOS_GENERAL_LOOP_COUNT: 4
           GIFOS_GENERAL_COLOR_SCHEME: "everblush"
