@@ -11,7 +11,7 @@ FONT_FILE_MONA = "./fonts/gohufont-uni-14.pil"
 
 
 def main():
-    t = gifos.Terminal(750, 500, 15, 15, FONT_FILE_BITMAP, 15)
+    t = gifos.Terminal(850, 500, 15, 15, FONT_FILE_BITMAP, 15)
 
     t.gen_text("", 1, count=20)
     t.toggle_show_cursor(False)
@@ -86,8 +86,8 @@ def main():
     user_details_lines = f"""
     \x1b[30;101mygoncloud@GitHub\x1b[0m
     --------------
-    \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, Windows 11, Android 14\x1b[0m
-    \x1b[96mHost:   \x1b[93mYGoncloud AMIKOM University of Yogyakarta \x1b[94m#NSEC\x1b[0m
+    \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, MacOS/UNIX\x1b[0m
+    \x1b[96mHost:   \x1b[93mYongky Budi Setiawanda \x1b[0m
     \x1b[96mKernel: \x1b[93mComputer Science & Engineering \x1b[94m#CSE\x1b[0m
     \x1b[96mUptime: \x1b[93m{user_age.years} years, {user_age.months} months, {user_age.days} days\x1b[0m
     \x1b[96mIDE:    \x1b[93mneovim, VSCode\x1b[0m
