@@ -17,7 +17,7 @@ def main():
     t.toggle_show_cursor(False)
     year_now = datetime.now(ZoneInfo("Asia/Jakarta")).strftime("%Y")
     t.gen_text("GIF_OS Modular BIOS v1.0.11", 1)
-    t.gen_text(f"Copyright (C) {year_now}, \x1b[31mygoncloud Softwares Inc.\x1b[0m", 2)
+    t.gen_text(f"Copyright (C) {year_now}, \x1b[31mmumeyong.dev Softwares Inc.\x1b[0m", 2)
     t.gen_text("\x1b[94mGitHub Profile ReadMe Terminal, Rev 1011\x1b[0m", 4)
     t.gen_text("Krypton(tm) GIFCPU - 250Hz", 6)
     t.gen_text(
@@ -59,7 +59,7 @@ def main():
     t.gen_text("\x1b[93mGIF OS v1.0.11 (tty1)\x1b[0m", 1, count=5)
     t.gen_text("login: ", 3, count=5)
     t.toggle_show_cursor(True)
-    t.gen_typing_text("ygoncloud", 3, contin=True)
+    t.gen_typing_text("mumeyong.dev", 3, contin=True)
     t.gen_text("", 4, count=5)
     t.toggle_show_cursor(False)
     t.gen_text("password: ", 4, count=5)
@@ -84,7 +84,7 @@ def main():
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
     user_details_lines = f"""
-    \x1b[30;101mygoncloud@GitHub\x1b[0m
+    \x1b[30;101mmumeyong.dev@GitHub\x1b[0m
     --------------
     \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, MacOS/UNIX\x1b[0m
     \x1b[96mHost:   \x1b[93mYongky Budi Setiawanda \x1b[0m
@@ -94,8 +94,8 @@ def main():
     
     \x1b[30;101mContact:\x1b[0m
     --------------
-    \x1b[96mEmail:      \x1b[93myongky@ygoncloud.web.id\x1b[0m
-    \x1b[96mLinkedIn:   \x1b[93mygoncloud\x1b[0m
+    \x1b[96mEmail:      \x1b[93myongky@mumeyong.dev\x1b[0m
+    \x1b[96mLinkedIn:   \x1b[93mmumeyong.dev\x1b[0m
     
     \x1b[30;101mGitHub Stats:\x1b[0m
     --------------
@@ -114,7 +114,7 @@ def main():
     t.gen_typing_text("\x1b[91mfetch.s", 1, contin=True)
     t.delete_row(1, prompt_col)
     t.gen_text("\x1b[92mfetch.sh\x1b[0m", 1, contin=True)
-    t.gen_typing_text(" -u ygoncloud", 1, contin=True)
+    t.gen_typing_text(" -u mumeyong", 1, contin=True)
 
     t.set_font(FONT_FILE_MONA, 16, 0)
     t.toggle_show_cursor(False)
