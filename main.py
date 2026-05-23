@@ -79,7 +79,7 @@ def main():
     t.gen_text("\x1b[92mclear\x1b[0m", 7, count=3, contin=True)
 
     # ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
-    git_user_details = gifos.utils.fetch_github_stats("ygoncloud")
+    git_user_details = gifos.utils.fetch_github_stats("mumeyong")
     user_age = gifos.utils.calc_age(26, 7, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
@@ -166,7 +166,7 @@ def main():
     <img alt="GIFOS" src="output.gif">
 </picture>
 
-<sub><i>Generated automatically using [ygoncloud/github-readme-terminal](https://github.com/ygoncloud/github-readme-terminal) on {time_now}</i></sub>
+<sub><i>Generated automatically using [mumeyong/github-readme-terminal](https://github.com/mumeyong/github-readme-terminal) on {time_now}</i></sub>
 
 <!-- <details>
 <summary>More details</summary>
